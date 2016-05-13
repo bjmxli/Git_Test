@@ -4,4 +4,5 @@ package Factory;
 public interface Hair {
      public void draw();
      public void draw1();
+     public void drawRound();
 }
