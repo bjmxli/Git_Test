@@ -3,4 +3,5 @@ package Factory;
 //git test 2
 public interface Hair {
      public void draw();
+     public void draw1();
 }
